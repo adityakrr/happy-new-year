@@ -7,11 +7,11 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>
-          Happy New Year 2079 - Canvas Animation using NextJs & TypeScript
+          Happy New Year
         </title>
         <meta
           name="description"
-          content="Happy New Year 2079 - Canvas Animation using NextJs & TypeScript"
+          content="Happy New Year"
         />
         <link key={'icon'} rel="icon" href="/favicon.ico" />
       </Head>
@@ -24,7 +24,7 @@ const Home: NextPage = () => {
               Happy <br /> New Year
             </h1>
             <h2 className="text-[80px] font-bold text-red-500 font-playball text-center">
-              2079
+              2024
             </h2>
           </div>
         </div>
